@@ -1,8 +1,8 @@
 # 🦣 [intro.aristot.io](https.aristot.io)
 
-A lightweight, minimal "about me" page I did because:
-- My main website, https://aristot.io doesn't show up at Google search for "Aristotelis Economides". This one hopefully will.
-- I don't want to keep the reading experience clean on https://aristot.io and not fill it with my social media accounts.
+A lightweight, minimal "about" page because:
+- [aristot.io](https://aristot.io) doesn't show up at Google search for "Aristotelis Economides". I don't want to put my name as a title page there. So this one might do the trick.
+- I want to keep the reading experience clean on [aristot.io](https://aristot.io) and not fill it with my social media accounts.
 
 ## Uses
 
