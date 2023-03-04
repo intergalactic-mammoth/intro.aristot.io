@@ -54,10 +54,10 @@
     let obsessions = [
         '',
         'tools for thinking',
+        'relational databases',
         'solving my post-education crisis',
         'client-server APIs',
         'having 0 browser tabs',
-        'relational databases'
     ]
     let currentObsession = document.getElementById('currentObsession');
 
@@ -66,10 +66,10 @@
         {
             lifeLike: true,
             loop: true,
-            speed: 150,
+            speed: 75,
         });
 
-    const pause = 500;
+    const pause = 600;
     for (const obsession of obsessions) {
         typeInstance.type(obsession).pause(pause + pause*Math.random()).delete(obsession.length);
     }
