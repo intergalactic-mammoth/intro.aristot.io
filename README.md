@@ -1,4 +1,4 @@
-# intro.aristot.io
+# 🦣 [intro.aristot.io](https.aristot.io)
 
 A lightweight, minimal "about me" page I did because:
 - My main website, https://aristot.io doesn't show up at Google search for "Aristotelis Economides". This one hopefully will.
