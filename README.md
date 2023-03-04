@@ -1,5 +1,7 @@
 # 🦣 [intro.aristot.io](https://intro.aristot.io)
 
+ [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+
 A lightweight, minimal "about" page.
 
 ## Uses
